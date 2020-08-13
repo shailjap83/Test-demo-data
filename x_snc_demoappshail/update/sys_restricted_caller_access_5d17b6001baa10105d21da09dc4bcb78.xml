@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <operation>execute</operation>
+        <source>ae76bacc1b6a10105d21da09dc4bcbd9</source>
+        <source_scope display_value="Global">global</source_scope>
+        <source_table>sys_script</source_table>
+        <source_type>0</source_type>
+        <status>0</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>shailja.panthri@snc</sys_created_by>
+        <sys_created_on>2020-08-06 03:06:28</sys_created_on>
+        <sys_id>5d17b6001baa10105d21da09dc4bcb78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>global</sys_name>
+        <sys_package display_value="DemoAppShailja" source="x_snc_demoappshail">2bb73e771b161010044b631d274bcb70</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DemoAppShailja">2bb73e771b161010044b631d274bcb70</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_5d17b6001baa10105d21da09dc4bcb78</sys_update_name>
+        <sys_updated_by>shailja.panthri@snc</sys_updated_by>
+        <sys_updated_on>2020-08-06 03:06:28</sys_updated_on>
+        <target>65f432cc1b6a10105d21da09dc4bcb1a</target>
+        <target_scope display_value="DemoAppShailja">2bb73e771b161010044b631d274bcb70</target_scope>
+        <target_table>sys_script_include</target_table>
+        <target_type>2</target_type>
+    </sys_restricted_caller_access>
+</record_update>
